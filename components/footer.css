@@ -12,3 +12,9 @@
   font-weight: 600;
   color: #F1E07A;
 }
+
+@media (max-width: 768px) {
+  .site-footer p {
+    font-size: 13px;
+  }
+}
