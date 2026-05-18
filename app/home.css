@@ -413,10 +413,11 @@
 
 .related-section h3 {
   display: inline-block;
-  background: #ffeb3b;
+  background: #70006F;
+  color: #F1E07A;
   padding: 6px 10px;
   font-size: 17px;
-  font-weight: 540;
+  font-weight: 550;
 }
 
 .article-story {
